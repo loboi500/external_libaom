@@ -1,4 +1,3 @@
-# owners for external/libaom
-include platform/frameworks/av:/media/janitors/codec_OWNERS
-essick@google.com
-jzern@google.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:419c23e41a789ec8c91f3d65212f94c89a5d41088a19e612b25a7274ef7b0939
+size 124

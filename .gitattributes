@@ -1,0 +1,12 @@
+Android.bp filter=lfs diff=lfs merge=lfs -text
+Android.bp.in filter=lfs diff=lfs merge=lfs -text
+libaom filter=lfs diff=lfs merge=lfs -text
+libaom_blocklist.txt filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+Android.mk filter=lfs diff=lfs merge=lfs -text
+config filter=lfs diff=lfs merge=lfs -text
+generate_config.sh filter=lfs diff=lfs merge=lfs -text
+README.android filter=lfs diff=lfs merge=lfs -text
+README.version filter=lfs diff=lfs merge=lfs -text
+update_libaom.sh filter=lfs diff=lfs merge=lfs -text

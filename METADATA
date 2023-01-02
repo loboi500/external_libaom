@@ -1,11 +1,3 @@
-third_party {
-  # would be NOTICE save for Alliance for Open Media patent license:
-  #   libaom/PATENTS
-  # and in headers for 930 other files like:
-  #   config/arm/config/aom_config.asm
-  #   config/arm/config/aom_config.c
-  #   ...
-  #   tools/txfm_analyzer/txfm_graph.h
-  #   tools/wrap-commit-msg.py
-  license_type: RECIPROCAL
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:895587e3f396aa95e456177887261e8eac9b94a189329bcdcbe4aa2fb3633834
+size 334
